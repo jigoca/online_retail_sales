@@ -1,2 +1,1 @@
-# online_retail_sales
-Análisis del desempeño empresarial
+# Análisis del desempeño empresarial
